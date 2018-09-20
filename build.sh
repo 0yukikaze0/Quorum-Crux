@@ -1,0 +1,1 @@
+docker build -t yukikaze/quorum-crux:1.0.0 .
